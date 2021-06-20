@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../misterAlitas/misterAlitas.iml" filepath="$PROJECT_DIR$/../../misterAlitas/misterAlitas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mister_alitas.iml" filepath="$PROJECT_DIR$/mister_alitas.iml" />
+    </modules>
+  </component>
+</project>
